@@ -47,7 +47,7 @@ The programming problems that you need to solve are:
 2. Data Structure - Stacks: Maximum Element
    - [x] [Maximum Element](https://github.com/muhammadaa/hackerrank/tree/master/data-structure/stacks/maximum-element)
 3. Data Structure - Stacks: Balanced Brackets.
-   - [ ] [Balanced Brackets]()
+   - [x] [Balanced Brackets](https://github.com/muhammadaa/hackerrank/tree/master/data-structure/stacks/balanced-brackets)
 
 ### Hackerrank 03 June 2017
 
