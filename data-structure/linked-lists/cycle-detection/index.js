@@ -17,14 +17,14 @@ function hasCycle(head) {
         return 0;
     }
     
-    let slow = head;
-    let fast = head;
+    let first = head;
+    let second = head;
 
-    while (fast != null && fast.next != null){
-        slow = slow.next;
-        fast = fast.next.next;
+    while (first != null && first.next != null){
+        second = second.next;
+        first = first.next.next;
 
-        if (slow == fast){
+        if (first == second){
             return 1;
         }
     }
