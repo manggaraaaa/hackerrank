@@ -45,9 +45,9 @@ The programming problems that you need to solve are:
    - [x] Easy : [Insert a Node at the Tail of a Linked List](https://github.com/muhammadaa/hackerrank/tree/master/data-structure/linked-lists/Insert-a-Node-at-the-Tail-of-a-Linked-List)
    - [ ] Medium : 
 2. Data Structure - Stacks: Maximum Element
-   - [ ] Maximum Element
+   - [ ] [Maximum Element]()
 3. Data Structure - Stacks: Balanced Brackets.
-   - [ ] Balanced Brackets
+   - [ ] [Balanced Brackets]()
 
 ### Hackerrank 03 June 2017
 
