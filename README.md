@@ -43,7 +43,7 @@ The programming problems that you need to solve are:
 The programming problems that you need to solve are:
 1. Data Structures - Linked Lists: choose 1 easy and 1 medium problem
    - [x] Easy : [Insert a Node at the Tail of a Linked List](https://github.com/muhammadaa/hackerrank/tree/master/data-structure/linked-lists/Insert-a-Node-at-the-Tail-of-a-Linked-List)
-   - [ ] Medium : [Cycle Detection](https://github.com/muhammadaa/hackerrank/tree/master/data-structure/linked-lists/cycle-detection)
+   - [x] Medium : [Cycle Detection](https://github.com/muhammadaa/hackerrank/tree/master/data-structure/linked-lists/cycle-detection)
 2. Data Structure - Stacks: Maximum Element
    - [ ] [Maximum Element]()
 3. Data Structure - Stacks: Balanced Brackets.
