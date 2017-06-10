@@ -65,6 +65,8 @@ The programming problems that you need to solve are:
 The programming problems that you need to solve are:
 
 1. Algorithms - Search - Minimum Loss
-   - [ ] [Minimum Loss]()
+   - [x] [Minimum Loss](https://github.com/muhammadaa/hackerrank/blob/master/algorithms/search/minimun-loss/index.js)
+   
+   test: pass test 0
 2. Algorithms - Graph Theory - Roads and Libraries
    - [ ] [Roads and Libraries]()
