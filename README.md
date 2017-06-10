@@ -55,5 +55,16 @@ The programming problems that you need to solve are:
 
 1. Data Structures - Trees - Swap Nodes (Algo)
    - [ ] [Swap Nodes (Algo)]()
+   Blocker : i still don't understand to solved this problem
 2. Data Structures - Trees - Kitty’s Calcualtions on a Tree
    - [ ] [Kitty's Calculations on a Tree]()
+   Blocker : 
+   
+### Hackerrank 10 June 2017
+
+The programming problems that you need to solve are:
+
+1. Algorithms - Search - Minimum Loss
+   - [ ] [Minimum Loss]()
+2. Algorithms - Graph Theory - Roads and Libraries
+   - [ ] [Roads and Libraries]()
