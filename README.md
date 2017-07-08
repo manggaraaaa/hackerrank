@@ -68,3 +68,10 @@ The programming problems that you need to solve are:
    - [ ] [Minimum Loss]()
 2. Algorithms - Graph Theory - Roads and Libraries
    - [ ] [Roads and Libraries]()
+
+
+### Cracking Code Review
+### Hackerrank 08 July 2017
+
+1. Data Structure
+   - [x] [Left Rotation]()
