@@ -76,4 +76,4 @@ The programming problems that you need to solve are:
 ### Hackerrank 08 July 2017
 
 1. Data Structure
-   - [x] [Left Rotation]()
+   - [x] [Left Rotation](https://github.com/muhammadaa/hackerrank/blob/master/cracking-code-review/data-structure/left-rotation/index.js)
