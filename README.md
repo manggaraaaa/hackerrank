@@ -54,11 +54,10 @@ The programming problems that you need to solve are:
 The programming problems that you need to solve are:
 
 1. Data Structures - Trees - Swap Nodes (Algo)
-   - [ ] [Swap Nodes (Algo)]()
-   Blocker : i still don't understand to solved this problem
+   - [ ] [Swap Nodes (Algo)]()     Blocker : i still don't understand to solved this problem
+    
 2. Data Structures - Trees - Kitty’s Calcualtions on a Tree
-   - [ ] [Kitty's Calculations on a Tree]()
-   Blocker : 
+   - [ ] [Kitty's Calculations on a Tree]()       Blocker : 
    
 ### Hackerrank 10 June 2017
 
@@ -77,3 +76,4 @@ The programming problems that you need to solve are:
 
 1. Data Structure
    - [x] [Left Rotation](https://github.com/muhammadaa/hackerrank/blob/master/cracking-code-review/data-structure/left-rotation/index.js)
+   - [x] [Strings: Making Anagrams](https://github.com/muhammadaa/hackerrank/blob/master/cracking-code-review/data-structure/strings-making-anagrams/index.js)
