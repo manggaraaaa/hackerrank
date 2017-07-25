@@ -3,6 +3,8 @@ This is for learning practic on HackerRank web : https://www.hackerrank.com .
 
 ## Base language programming
 * Javascript
+* C++
+* python
 
 ## Role of the hackerrank
 * Use the same naming convention as previous assignment:
